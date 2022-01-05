@@ -1,5 +1,5 @@
-# Project Name
-> Outline a brief description of your project.
+# Lending Club Case Study
+> This case study gives a brief about parameters that help the company to decide if the loan can be given to cumstomer or not by analysing that they are more likely to pay back the loan or not.
 
 
 ## Table of Contents
@@ -11,38 +11,37 @@
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
+
+- Lending Club case study gives the details about the urban customers and their behavior of loan repayment. It shows when a company receives set of applications for the loan, on what basis they are to be approved or rejected. 
+
+Risks Associated:
+If a member is likely to repay the loan, then company deciding not to give the loan. This leads to loss for the company. 
+If a member is defaulter, then still company decides to give the loan on certain reasons. That also leads to financial loss to the company. 
+- Loan dataset is given by upgrad. Based on that data further analysis is done. 
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
-
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
-
+- Customers with Loans that have lesser tenures tend to pay fully which is least possible loss-making cause for the company. 
+- Customers who have their own house can be preferred to provide a loan, as observed they are the ones who are least defaulted customers among others.
+- Customers who are taking loan for the purpose of clearing their debts are more likely to go default. So company should verify the exact purpose of the loan to proceed with the process.
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+- Python
+- Pandas
+- Numpy
+
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
+- Refer to Data_Dictionary.xlsx for proper understanding of data columns.
+- Refer to Loan.zip file for the data shared. 
 - This project was based on [this tutorial](https://www.example.com).
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [@ashaik1205] - feel free to contact me!
 
 
 <!-- Optional -->
