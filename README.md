@@ -25,6 +25,7 @@ If a member is defaulter, then still company decides to give the loan on certain
 - Customers with Loans that have lesser tenures tend to pay fully which is least possible loss-making cause for the company. 
 - Customers who have their own house can be preferred to provide a loan, as observed they are the ones who are least defaulted customers among others.
 - Customers who are taking loan for the purpose of clearing their debts are more likely to go default. So company should verify the exact purpose of the loan to proceed with the process.
+- Customers with verified sources are less likely to default their loans.
 
 ## Technologies Used
 - Python
