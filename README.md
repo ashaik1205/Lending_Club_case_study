@@ -38,8 +38,6 @@ If a member is defaulter, then still company decides to give the loan on certain
 ## Acknowledgements
 - Refer to Data_Dictionary.xlsx for proper understanding of data columns.
 - Refer to Loan.zip file for the data shared. 
-- This project was based on [this tutorial](https://www.example.com).
-
 
 ## Contact
 Created by [@ashaik1205] - feel free to contact me!
